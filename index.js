@@ -129,9 +129,9 @@
         },
         {
             name: "Kristina	Kuzmanovski",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Detroit",
+            favoriteFood: "Sandwiches",
+            hobbies: ["Crafting","Reading","Going to the beach", "Hanging out with my family"]
 
         },
         {
